@@ -4,5 +4,10 @@
   },
   "dependencies": {
     "three": "^0.170.0"
+  },
+  "scripts": 
+  {
+    "build":"vite build",
+    "preview":"vite preview"
   }
 }
